@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "618494333435",
+    "firebase_url": "https://all-in-one-pakistan-admi-75b64-default-rtdb.firebaseio.com",
+    "project_id": "all-in-one-pakistan-admi-75b64",
+    "storage_bucket": "all-in-one-pakistan-admi-75b64.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:618494333435:android:d3940e0f60b04896b77b5e",
+        "android_client_info": {
+          "package_name": "com.codies.allinonepakistanadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "618494333435-88aqdg4bqv2a485djuhhi8gpdnvjuoc0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBx6lYoBRBvt8zpyIWZGI5FjG6-RaaySMk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "618494333435-88aqdg4bqv2a485djuhhi8gpdnvjuoc0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:618494333435:android:cd89c4fa8f06c37fb77b5e",
+        "android_client_info": {
+          "package_name": "com.codies.allinoneshopping"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "618494333435-88aqdg4bqv2a485djuhhi8gpdnvjuoc0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBx6lYoBRBvt8zpyIWZGI5FjG6-RaaySMk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "618494333435-88aqdg4bqv2a485djuhhi8gpdnvjuoc0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:618494333435:android:ad36e9af1ee37091b77b5e",
+        "android_client_info": {
+          "package_name": "com.muibsols.allinoneshopping"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "618494333435-fo7vjq7a5pq3i64jlra1aic6sr1gpdm7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.muibsols.allinoneshopping",
+            "certificate_hash": "197284519d05fa34c38e66300edb5522234cf06d"
+          }
+        },
+        {
+          "client_id": "618494333435-88aqdg4bqv2a485djuhhi8gpdnvjuoc0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBx6lYoBRBvt8zpyIWZGI5FjG6-RaaySMk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "618494333435-88aqdg4bqv2a485djuhhi8gpdnvjuoc0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
